@@ -1,2 +1,2 @@
 # digiClock
-building a digital clock with html, css, and javascript
+building a digital clock that changes its background with html, css, and javascript.
